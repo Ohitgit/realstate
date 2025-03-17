@@ -5,7 +5,7 @@ import About from './compontens/About'
 import Projects from './compontens/Projects'
 import Testmoinal from './compontens/Testmoinal'
 import Contact from './compontens/Contact'
-
+import { ToastContainer } from 'react-toastify';
 const App = () => {
   return (
     <div className='w-full overflow-hidden'>
